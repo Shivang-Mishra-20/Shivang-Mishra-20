@@ -1,13 +1,440 @@
-# 💫 About Me:
-👋 Hello there!<br>I am Shivang Mishra, a proud third-year B.Tech student at VIT Bhopal University, a Recommended Candidate for the Indian Naval Academy Course (INAC - 113) from 33 SSB Bhopal, an Air Force brat, and a proud KVian.<br><br>Currently, I am pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (AI & ML). My academic experience at VIT Bhopal has been a thrilling journey of discovery, particularly in programming and emerging technologies.<br><br>My schooling at Kendriya Vidyalaya played a pivotal role in shaping my disciplined and result-oriented approach. As a consistently meritorious student and will keep it up in college too.<br><br>I live by an enhanced version of the famous saying:<br>"Jack of all trades, master of none, but always striving to master some."
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:8E2DE2,100:4A00E0&text=Shivang%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivang-mishra20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivang.m04@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=1000&lines=AI+Product+Engineer;Software+Engineer;Machine+Learning+Practitioner;Building+Intelligent+Systems;AI+%7C+Backend+%7C+Product+Engineering"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://portfolio-weld-two-17.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivang-mishra20">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivang.m04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shivang-Mishra-20">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Shivang-Mishra-20\&style=for-the-badge\&color=8E2DE2)
+
+![](https://img.shields.io/github/followers/Shivang-Mishra-20?style=for-the-badge\&color=8E2DE2)
+
+</div>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Shivang-Mishra-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I am a Computer Science and Engineering (AI & ML) student at **VIT Bhopal University** with a strong focus on **AI Product Engineering, Backend Development, Machine Learning, and Intelligent Automation Systems**.
+
+Currently working as an **AI Product Intern at Silver Oak Health**, where I build AI-powered healthcare workflows using OpenAI and Anthropic models, backend services, structured response validation systems, and production-grade AI integrations.
+
+My work focuses on solving real-world problems through intelligent software systems across healthcare, HR analytics, operations management, conversational AI, and automation.
+
+### Education
+
+**B.Tech — Computer Science Engineering (AI & ML)**
+VIT Bhopal University
+CGPA: **8.27**
+Expected Graduation: **2027**
+
+---
+
+# Experience
+
+## AI Product Intern — Silver Oak Health
+
+**May 2026 – Present**
+
+* Building AI-powered healthcare applications using OpenAI and Anthropic APIs
+* Developing Python and Node.js backend services
+* Designing structured AI workflow orchestration systems
+* Implementing response validation and reliability pipelines
+* Contributing to production AI healthcare solutions
+
+**Tech:** Python • Node.js • OpenAI • Anthropic • REST APIs
+
+---
+
+## Research Collaborator — Dr. Karthik G. L.
+
+**Jun 2025 – Present**
+
+### The Self-Limiting Dynamics of AI Automation *(Manuscript Under Review)*
+
+Research exploring long-term economic sustainability and self-limiting dynamics of large-scale AI automation.
+
+**Research Areas**
+
+* AI Economics
+* Agent-Based Simulation
+* Automation Dynamics
+* Economic Sustainability
+* Labor Market Modeling
+
+---
+
+## Web Development Intern — SSB Excellence
+
+**Jul 2025 – Aug 2025**
+
+* Built and launched the official educational platform
+* Improved user registration flow
+* Optimized Core Web Vitals
+* Improved platform performance and accessibility
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi"/>
+</p>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+## Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github"/>
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain                 | Expertise                            |
+| ---------------------- | ------------------------------------ |
+| Machine Learning       | Random Forest, Classification Models |
+| NLP                    | HuggingFace, Sentiment Analysis      |
+| LLM Engineering        | OpenAI, Anthropic, Gemini            |
+| Deep Learning          | TensorFlow, PyTorch                  |
+| AI Product Development | Production AI Workflows              |
+| Predictive Analytics   | Risk Prediction Systems              |
+| Computer Vision        | OCR, OpenCV                          |
+| Reinforcement Learning | Environment Design                   |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🏥 MediIntel — Healthcare Claims Intelligence Platform</b></summary>
+
+### Overview
+
+AI-powered healthcare claims intelligence platform combining OCR extraction, fraud detection, anomaly analysis, explainable AI indicators, and auditor workflows.
+
+| Category  | Details                                  |
+| --------- | ---------------------------------------- |
+| Stack     | Django, React, PostgreSQL, Celery, Redis |
+| AI        | RandomForest, Anomaly Detection          |
+| OCR       | Tesseract, OpenCV, pdfplumber            |
+| Dataset   | 15,000 Claims                            |
+| Accuracy  | 91.9%                                    |
+| Precision | 94.4%                                    |
+| Auth      | JWT + RBAC                               |
+
+### Highlights
+
+* OCR-based document intelligence
+* Fraud scoring engine
+* Duplicate claim detection
+* Auditor review workflows
+* Async Celery pipelines
+* Webhook integrations
+* Analytics dashboards
+
+**Repository:**
+https://github.com/Shivang-Mishra-20/MediIntel
+
+</details>
+
+<details>
+<summary><b>🧠 MindPath — AI HR Analytics Platform</b></summary>
+
+### Overview
+
+Full-stack AI-powered HR analytics platform helping organizations predict attrition, monitor burnout risk, and automate performance evaluations.
+
+| Category | Details                   |
+| -------- | ------------------------- |
+| Stack    | Django, React, PostgreSQL |
+| ML       | Random Forest             |
+| NLP      | DistilBERT                |
+| AI       | Gemini                    |
+| Auth     | Session Auth              |
+
+### Highlights
+
+* Attrition prediction engine
+* Burnout detection system
+* AI-generated performance reviews
+* Interactive analytics dashboards
+* Workforce intelligence platform
+
+**Repository:**
+https://github.com/Shivang-Mishra-20/MindPath
+
+</details>
+
+<details>
+<summary><b>⚙️ TaskForge AI — RL Environment for SaaS Operations</b></summary>
+
+### Overview
+
+A reinforcement-learning environment simulating an 8-hour SaaS operations workday where agents manage bugs, escalations, support requests, sales demos, and business priorities.
+
+| Category    | Details                     |
+| ----------- | --------------------------- |
+| Domain      | Reinforcement Learning      |
+| Environment | OpenEnv Compatible          |
+| Simulation  | SaaS Operations             |
+| Agent       | Rule-Based + LLM Compatible |
+
+### Highlights
+
+* Dynamic task injection
+* Dependency chains
+* Escalation handling
+* Reward engineering
+* Multi-objective optimization
+
+**Repository:**
+https://github.com/Shivang-Mishra-20/taskforge
+
+</details>
+
+<details>
+<summary><b>💬 Convo AI — AI Sales Agent</b></summary>
+
+### Overview
+
+AI-powered conversational sales assistant designed for brokerage platforms using natural Hindi conversations and lead personalization.
+
+### Highlights
+
+* Natural language conversations
+* Lead qualification
+* Real-time AI responses
+* Full-stack architecture
+
+**Repository:**
+https://github.com/Chaitanya1005/convo-ai
+
+</details>
+
+<details>
+<summary><b>🗺️ TravelGenie — Intelligent Trip Planner</b></summary>
+
+### Overview
+
+Smart travel planning platform for Indian college students featuring personalized itineraries, route optimization, and budget-based planning.
+
+### Highlights
+
+* City-to-city trip planning
+* Budget optimization
+* Personalized itineraries
+* Multiple travel modes
+
+</details>
+
+<details>
+<summary><b>📄 ScanForge — OpenCV Document Scanner</b></summary>
+
+### Overview
+
+Computer vision project that detects, straightens, enhances, and exports scanned documents using OpenCV.
+
+### Highlights
+
+* Edge detection
+* Perspective correction
+* PDF export
+* Image enhancement
+
+**Repository:**
+https://github.com/Shivang-Mishra-20/scanforge
+
+</details>
+
+---
+
+# Achievements
+
+| Achievement                | Details                           |
+| -------------------------- | --------------------------------- |
+| AI for Bharat 2.0          | Nationwide Hackathon Semifinalist |
+| Smart India Hackathon 2025 | Internal Finalist                 |
+| Indian Naval Academy       | Recommended Candidate             |
+| Rajyapuraskar Scout        | President Nominated Scout         |
+
+---
+
+# Certifications
+
+### IBM
+
+![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Using%20Watsonx-1261FE?style=for-the-badge\&logo=ibm)
+
+### Microsoft
+
+![Azure](https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge\&logo=microsoftazure)
+
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Multicloud%20Architect%20Professional-F80000?style=for-the-badge\&logo=oracle)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Cloud%20Computing-8E2DE2?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/1X2GAqoPng/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/ShivangMishra">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivang-Mishra-20&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang-Mishra-20&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Mishra-20&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shivang-Mishra-20&theme=tokyonight&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivang-Mishra-20&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+```yaml
+# GitHub Action Required
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+```
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - LLM Engineering
+  - Distributed Systems
+  - Reinforcement Learning
+  - Cloud Infrastructure
+
+Building:
+  - AI-Powered Healthcare Systems
+  - Intelligent HR Analytics Platforms
+  - AI Automation Workflows
+
+Exploring:
+  - Agentic AI Systems
+  - AI Economics
+  - Applied Reinforcement Learning
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://portfolio-weld-two-17.vercel.app/">
+Portfolio
+</a>
+•
+<a href="https://www.linkedin.com/in/shivang-mishra20">
+LinkedIn
+</a>
+•
+<a href="mailto:shivang.m04@gmail.com">
+Email
+</a>
+•
+<a href="https://github.com/Shivang-Mishra-20">
+GitHub
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building intelligent systems at the intersection of AI, software engineering, automation, and real-world business workflows.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6A11CB,50:8E2DE2,100:4A00E0"/>
