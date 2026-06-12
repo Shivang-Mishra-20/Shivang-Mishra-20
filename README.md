@@ -331,25 +331,6 @@ https://github.com/Shivang-Mishra-20/scanforge
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivang-Mishra-20&theme=tokyo-night"/>
 
 </div>
-
----
-
-# Contribution Snake
-
-```yaml
-# GitHub Action Required
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-```
-
 ---
 
 # Current Focus
