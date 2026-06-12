@@ -22,9 +22,6 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=Shivang-Mishra-20\&style=for-the-badge\&color=8E2DE2)
-
-![](https://img.shields.io/github/followers/Shivang-Mishra-20?style=for-the-badge\&color=8E2DE2)
 
 </div>
 
@@ -297,26 +294,6 @@ https://github.com/Shivang-Mishra-20/scanforge
 
 ---
 
-# Certifications
-
-### IBM
-
-![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Using%20Watsonx-1261FE?style=for-the-badge\&logo=ibm)
-
-### Microsoft
-
-![Azure](https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge\&logo=microsoftazure)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Multicloud%20Architect%20Professional-F80000?style=for-the-badge\&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Cloud%20Computing-8E2DE2?style=for-the-badge)
-
----
-
 # Coding Profiles
 
 <div align="center">
@@ -342,16 +319,6 @@ https://github.com/Shivang-Mishra-20/scanforge
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang-Mishra-20&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Mishra-20&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivang-Mishra-20&theme=tokyonight&column=4"/>
 
 </div>
 
