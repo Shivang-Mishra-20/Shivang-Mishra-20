@@ -312,15 +312,11 @@ https://github.com/Shivang-Mishra-20/scanforge
 
 # GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivang-Mishra-20&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang-Mishra-20&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Mishra-20&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivang-Mishra-20&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang-Mishra-20&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Mishra-20&layout=compact&theme=tokyonight" height="180" />
+</p>
 
 ---
 
