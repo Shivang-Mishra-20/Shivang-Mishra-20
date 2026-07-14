@@ -39,7 +39,6 @@ My work focuses on solving real-world problems through intelligent software syst
 
 **B.Tech — Computer Science Engineering (AI & ML)**
 VIT Bhopal University
-CGPA: **8.27**
 Expected Graduation: **2027**
 
 ---
