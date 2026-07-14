@@ -348,30 +348,6 @@ Exploring:
 
 ---
 
-# Connect
-
-<div align="center">
-
-<a href="https://portfolio-weld-two-17.vercel.app/">
-Portfolio
-</a>
-•
-<a href="https://www.linkedin.com/in/shivang-mishra20">
-LinkedIn
-</a>
-•
-<a href="mailto:shivang.m04@gmail.com">
-Email
-</a>
-•
-<a href="https://github.com/Shivang-Mishra-20">
-GitHub
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### Building intelligent systems at the intersection of AI, software engineering, automation, and real-world business workflows.
