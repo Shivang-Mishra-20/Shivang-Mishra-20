@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=1000&lines=AI+Product+Engineer;Software+Engineer;Machine+Learning+Practitioner;Building+Intelligent+Systems;AI+%7C+Backend+%7C+Product+Engineering"/>
 
-<a href="https://portfolio-weld-two-17.vercel.app/">
+<a href="https://portfolio-shivang-mishra.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
